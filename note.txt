@@ -1,0 +1,8 @@
+- tutorial : https://www.youtube.com/watch?v=OTuHnVvxTDs&t=538s
+- generate : json ->> type :  https://quicktype.io/
+- log issue (https://www.codegrepper.com/code-examples/whatever/This+is+probably+not+a+problem+with+npm.+There+is+likely+additional+logging+output+above.)
+ Delete your package-lock.json file and node_modules folder. Then do npm cache clean
+
+1-npm cache clean --force
+2-npm install
+3-npm start 
